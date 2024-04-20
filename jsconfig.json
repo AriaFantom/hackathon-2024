@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom" // <- add this
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
